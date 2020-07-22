@@ -1,18 +1,24 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Blog App
 
-> One paragraph statement about the project.
+> In this project I will create a simple blog system as a pratice sandbox to learn the basics of Ruby on Rails including:
+
+-Models, Views, and Controllers (MVC)
+-Data Structures & Relationships
+-Routing
+-Migrations
+-Views with forms, partials, and helpers
+-RESTful design
+-Adding gems for extra features
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Ruby 2.6
+- Ruby in Rails 5
+- Git Flow
 
 ## Live Demo
 
@@ -40,20 +46,13 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 
+## Author
 
-## Authors
+👤 **Mauricio Santos**
 
-👤 **Author1**
+- Github: [@maosan132](https://github.com/maosan132)
+- Linkedin: [@maosan132](https://www.linkedin.com/in/mauricio-santos-a7292910/)
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
