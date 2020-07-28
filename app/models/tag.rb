@@ -1,5 +1,6 @@
-class Article < ApplicationRecord
-  has_many :comments
+# frozen_string_literal: true
+
+class Tag < ApplicationRecord
   has_many :taggings
   has_many :tags, through: :taggings
 end
